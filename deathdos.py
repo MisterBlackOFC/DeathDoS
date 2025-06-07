@@ -40,7 +40,7 @@ def banner():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠷⠶⠶⠾⠟⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 DEATH DOS V2
-           v1.0 - by Mister Death 
+           v1.0 - by Mister Death | Github MisterDeathOFC 
 """ + RESET)
 
 def atacar(ip, porta, tempo):
