@@ -7,6 +7,6 @@ git clone https://github.com/MisterBlackOFC/DeathDoS
 
 cd DeathDoS
 
-python DeathDoS.py
+python deathdos.py
 
 ##### Atenção: não me responsabilizo pelo jeito que você usar essa ferramenta! 
